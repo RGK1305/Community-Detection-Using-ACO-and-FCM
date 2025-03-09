@@ -6,8 +6,8 @@ This project implements a hybrid approach for detecting communities in social ne
 
 ## Authors
 
-- **Sharon David J** (CS23B2035)
-- **Ravulapally Goutham** (CS23B2036)
+- **Sharon David J**
+- **Ravulapally Goutham**
 - Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
 - December 14, 2024
 
